@@ -5,3 +5,9 @@ opencv-python
 matplotlib
 plotly
 streamlit-autorefresh
+streamlit
+pandas
+numpy
+opencv-python-headless
+plotly
+streamlit-autorefresh
